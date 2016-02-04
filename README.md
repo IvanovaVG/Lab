@@ -1,2 +1,2 @@
 # Lab
-Just another repository
+Repository
